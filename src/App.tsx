@@ -3,7 +3,7 @@ import { Text } from '@chakra-ui/react'
 function App() {
 
   return (
-      <Text>Start Of Appliaction</Text>
+      <Text>Start Of Application</Text>
   )
 }
 
